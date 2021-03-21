@@ -4,7 +4,7 @@ Pequeña aplicación donde se visualiza un listado de recuadros coloridos que a 
 
 ## Puedes visitarlo en
 
-[https://coloreando-app.herokuapp.com/](https://coloreando-app.herokuapp.com/)
+[https://coloreando-app.vercel.app/](https://coloreando-app.vercel.app/)
 
 ## Tecnologías implicadas
 
@@ -16,19 +16,18 @@ Pequeña aplicación donde se visualiza un listado de recuadros coloridos que a 
 ## Requisitos
 
 - NodeJs 14+
+- Yarn 1.x
 
 ## Dependencias del proyecto
 
 ```sh
 # Instalación local
-$ npm i
+$ yarn install
 
-# Instalación en producción
-$ npm i --production
 ```
 
 ## Compilar y ejecutar
 
 ```sh
-$ npm start
+$ yarn start
 ```
