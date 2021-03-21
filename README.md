@@ -15,7 +15,7 @@ Pequeña aplicación donde se visualiza un listado de recuadros coloridos que a 
 
 ## Requisitos
 
-- NodeJs 12+
+- NodeJs 14+
 
 ## Dependencias del proyecto
 

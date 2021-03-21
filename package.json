@@ -2,12 +2,15 @@
   "name": "coloreando-app",
   "version": "0.1.0",
   "private": true,
+  "engines": {
+    "node": "14.x",
+    "yarn": "1.x"
+  },
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject",
-    "heroku-postbuild": "yarn build"
+    "eject": "react-scripts eject"
   },
   "dependencies": {
     "@material-ui/core": "^4.11.3",
