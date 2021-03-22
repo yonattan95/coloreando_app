@@ -26,7 +26,7 @@ export const fetchColorList = (page?: number) => {
         console.log(result.message);
         dispath({
           type: FETCH_COLORS_ERROR,
-          payload: null
+          payload: result
         });
       } else {
         dispath({
