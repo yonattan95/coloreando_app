@@ -4,7 +4,8 @@ Pequeña aplicación donde se visualiza un listado de recuadros coloridos que a 
 
 ## Puedes visitarlo en
 
-[https://coloreando-app.vercel.app/](https://coloreando-app.vercel.app/)
+* [Pagina desplegada en Zeit Now](https://coloreando-app.vercel.app/)
+* [Repositorio en Github](https://github.com/yonattan95/coloreando_app)
 
 ## Tecnologías implicadas
 
